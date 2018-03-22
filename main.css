@@ -1,0 +1,7 @@
+#userArea {
+	user-select: none;
+}
+.info {
+	display: none;
+	user-select: none;
+}
